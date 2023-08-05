@@ -1,0 +1,15 @@
+export const logo = require('../assets/images/logo.png');
+export const splash1 = require('../assets/images/splash1.png');
+export const splash2 = require('../assets/images/splash2.png');
+export const splash3 = require('../assets/images/splash3.png');
+export const homeBanner = require('../assets/images/homebanner.png');
+export const logoBlack = require('../assets/images/logo_black.png');
+export const category = require('../assets/images/Category.png');
+export const design = require('../assets/images/design.png');
+export const photo = require('../assets/images/photo.png');
+export const search = require('../assets/images/Search.png');
+export const avatar = require('../assets/images/avatar.jpg');
+export const star = require('../assets/images/star.png');
+export const clock = require('../assets/images/clock.png');
+export const pass = require('../assets/images/pass.png');
+export const email = require('../assets/images/email.png');
