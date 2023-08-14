@@ -15,7 +15,7 @@ Star⭐ the repo if you like what you see😉.
 ## 📸 ScreenShots
 
 
- <img src="ss/first.gif" width="400">   <img src="ss/second.jpg" width="400"> 
+ <img src="ss/first.jpg" width="400">   <img src="ss/second.jpg" width="400"> 
  <img src="ss/third.jpg" width="400">  <img src="ss/fourth.jpg" width="400"> 
  <img src="ss/fifth.jpg" width="400">  <img src="ss/sixth.jpg" width="400"> 
 
